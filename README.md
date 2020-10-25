@@ -14,3 +14,8 @@ Screenshots:
 
 
 
+
+
+<img width="1440" alt="Näyttökuva 2020-10-25 kello 16 51 35" src="https://user-images.githubusercontent.com/27028743/97110525-71a52380-16e2-11eb-88b8-7d661b520889.png">
+
+
